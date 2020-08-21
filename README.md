@@ -1,2 +1,2 @@
 # programacion-laboratorio-II
-UTNFra - Laboratorio de Computación II y Programación II - Ejemplos y ejercicios compartidos en clase.
+UTNFra - Laboratorio de Computación II y Programación II - Material adicional compartido en las clases.
