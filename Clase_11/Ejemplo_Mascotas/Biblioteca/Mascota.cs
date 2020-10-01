@@ -26,7 +26,7 @@ namespace Biblioteca
             }
         }
 
-        public string MostrarDatos()
+        public virtual string MostrarDatos()
         {
             StringBuilder stringBuilder = new StringBuilder();
 
